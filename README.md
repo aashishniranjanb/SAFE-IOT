@@ -134,7 +134,7 @@ This project builds upon work presented at **NCET-2025**, and aims to evolve tha
 
 ## 📜 License
 
-Apache License 2.0 
+Apache License 2.0 — See [LICENSE](LICENSE)
 
 ---
 
